@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pretext>
+<article xml:id="home">
+<title>
+        Hans Parshall
+</title>
+
+<section xml:id="background">
+    <title>background</title>
+        <table>
+        <tabular>
+            <row>
+            <cell>
+                since 2020
+            </cell>
+            <cell>
+                Assistant Professor
+            </cell>
+            <cell>
+                Western Washington University
+            </cell>
+            </row>
+            <row>
+            <cell>
+                2017<ndash/>2020
+            </cell>
+            <cell>
+                Zassenhaus Assistant Professor
+            </cell>
+            <cell>
+                The Ohio State University
+            </cell>
+            </row>
+            <row>
+            <cell>
+                2011<ndash/>2017
+            </cell>
+            <cell>
+                PhD, Mathematics
+            </cell>
+            <cell>
+                University of Georgia
+            </cell>
+            </row>
+            <row>
+            <cell>
+                2008<ndash/>2011
+            </cell>
+            <cell>
+                BA, Mathematics
+            </cell>
+            <cell>
+                Humboldt State University
+            </cell>
+            </row>
+        </tabular>
+        </table>
+    </section>
+
+    <section xml:id="teaching">
+    <title>teaching at Western</title>
+        <table>
+            <tabular>
+                <row>
+                <cell>
+                    fall 2021
+                </cell>
+                <cell>
+                    Math 224
+                </cell>
+                <cell>
+                    Multivariable Calculus and Geometry I
+                </cell>
+                </row>
+                <row>
+                <cell>
+                </cell>
+                <cell>
+                    Math 564
+                </cell>
+                <cell>
+                    Graph Theory
+                </cell>
+                </row>
+                <row>
+                <cell>
+                    spring 2021
+                </cell>
+                <cell>
+                    Math 224
+                </cell>
+                <cell>
+                    Multivariable Calculus and Geometry I
+                </cell>
+                </row>
+                <row>
+                <cell>
+                </cell>
+                <cell>
+                    Math 304
+                </cell>
+                <cell>
+                    Linear Algebra
+                </cell>
+                </row>
+                <row>
+                <cell>
+                    winter 2021
+                </cell>
+                <cell>
+                    Math 204
+                </cell>
+                <cell>
+                    Elementary Linear Algebra
+                </cell>
+                </row>
+            </tabular>
+        </table>
+    </section>
+
+    <section xml:id="research">
+        <title>research</title>
+        <ul>
+            <li> <url href="https://arxiv.org/search/?searchtype=author&amp;query=Parshall%2C+H">arXiv</url> </li>
+            <li> <url href="https://scholar.google.com/citations?user=eQ_7e5wAAAAJ&amp;hl=en">Google Scholar</url> </li>
+        </ul>
+    </section>
+</article>
+</pretext>
