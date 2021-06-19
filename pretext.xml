@@ -78,7 +78,7 @@
             <tabular>
                 <row>
                 <cell>
-                    <url="fall 2021
+                    fall 2021
                 </cell>
                 <cell>
                     Math 224
@@ -107,6 +107,9 @@
                 <cell>
                     Multivariable Calculus and Geometry I
                 </cell>
+                <cell>
+                    <url href="https://hansparshall.com/pdf/224-evals-s21.pdf">evals</url>
+                </cell>
                 </row>
                 <row>
                 <cell>
@@ -116,6 +119,9 @@
                 </cell>
                 <cell>
                     Linear Algebra
+                </cell>
+                <cell>
+                    <url href="https://hansparshall.com/pdf/304-evals-s21.pdf">evals</url>
                 </cell>
                 </row>
                 <row>
@@ -127,6 +133,9 @@
                 </cell>
                 <cell>
                     Elementary Linear Algebra
+                </cell>
+                <cell>
+                    <url href="https://hansparshall.com/pdf/204-evals-w21.pdf">evals</url>
                 </cell>
                 </row>
             </tabular>
