@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pretext>
 <article xml:id="home">
-<frontmatter xml:id="frontmatter">
-<titlepage>
+    <frontmatter xml:id="frontmatter">
+        <titlepage>
 
-    <author>
-      <personname>Hans Parshall</personname>
+            <author>
+            <personname>Hans Parshall</personname>
 
-      <department>Department of Mathematics</department>
+            <department>Department of Mathematics</department>
 
-      <institution>
-      <line>Western Washington University</line>
-      <line>Bellingham, Washington, USA</line></institution>
-      <email>hans.parshall@wwu.edu</email>
-    </author>
+            <institution>
+                <line>Western Washington University</line>
+                <line>Bellingham, Washington, USA</line>
+            </institution>
+            <email>hans.parshall@wwu.edu</email>
+            </author>
 
-    <date><today /></date>
-  </titlepage>
-  </frontmatter>
+        </titlepage>
+    </frontmatter>
 
 <section xml:id="background">
     <title>background</title>
