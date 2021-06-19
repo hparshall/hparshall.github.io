@@ -21,92 +21,58 @@
 
 <section xml:id="background">
     <title>background</title>
-        <table>
-        <tabular>
-            <row>
-            <cell>
-                since 2020
-            </cell>
-            <cell>
-                Assistant Professor
-            </cell>
-            <cell>
-                Western Washington University
-            </cell>
-            </row>
-            <row>
-            <cell>
-                2017<ndash/>2020
-            </cell>
-            <cell>
-                <url href="https://mathshistory.st-andrews.ac.uk/Biographies/Zassenhaus/">Zassenhaus</url> Assistant Professor
-            </cell>
-            <cell>
-                The Ohio State University
-            </cell>
-            </row>
-            <row>
-            <cell>
-                2011<ndash/>2017
-            </cell>
-            <cell>
-                PhD, <url href="https://www.jstor.org/stable/27828328">Mathematics</url>
-            </cell>
-            <cell>
-                University of Georgia
-            </cell>
-            </row>
-            <row>
-            <cell>
-                2008<ndash/>2011
-            </cell>
-            <cell>
-                BA, <url href="https://www.jstor.org/stable/27828328">Mathematics</url>
-            </cell>
-            <cell>
-                Humboldt State University
-            </cell>
-            </row>
-        </tabular>
-        </table>
-    </section>
+    <sidebyside widths="15% 40% 40%" margins="auto" valign="middle">
+    <p>since 2020</p>
+    <p>Assistant Professor</p>
+    <p><url href="https://mathematics.wwu.edu/">Western Washington University</url></p>
+    </sidebyside>
+    <sidebyside widths="15% 40% 40%" margins="auto" valign="middle">
+    <p>2017<ndash/>2020</p>
+    <p><url href="https://mathshistory.st-andrews.ac.uk/Biographies/Zassenhaus/">Zassenhaus</url> Assistant Professor</p>
+    <p><url href="https://math.osu.edu/">The Ohio State University</url></p>
+    </sidebyside>
+    <sidebyside widths="15% 40% 40%" margins="auto" valign="middle">
+    <p>2011<ndash/>2017</p>
+    <p>PhD, <url href="https://www.jstor.org/stable/27828328">Mathematics</url></p>
+    <p><url href="https://www.math.uga.edu/">University of Georgia</url></p>
+    </sidebyside>
+    <sidebyside widths="15% 40% 40%" margins="auto" valign="middle">
+    <p>2008<ndash/>2011</p>
+    <p>BA, <url href="https://www.jstor.org/stable/27828328">Mathematics</url></p>
+    <p><url href="https://math.humboldt.edu/">Humboldt State University</url></p>
+    </sidebyside>
+</section>
 
     <section xml:id="reading">
         <title>reading</title>
-        <ul>
-            <li>
-                <line>
-                <url href="https://aimath.org/textbooks/">AIM Open Textbook Initiative</url>
-                </line>
-                <line> thanks to <url href="https://utmost.aimath.org/">the UTMOST project</url> </line>
-            </li>
-            <li>
-                <line>
-                <url href="https://secure.math.ubc.ca/~CLP/">CLP Calculus</url>
-                </line>
-                <line>
-                thanks to
-                <url href="https://en.wikipedia.org/wiki/Joel_Feldman">Feldman</url>,
-                <url href="https://secure.math.ubc.ca/~andrewr/front_page.html">Rechnitzer</url>, and
-                <url href="https://secure.math.ubc.ca/~elyse/index.html">Yeager</url>
-                </line>
-            </li>
-            <li>
-                <line>
-                <url href="https://web.archive.org/web/20120207023102fw_/http://www.math.jussieu.fr/~jabondy/books/books.html">Graph Theory with Applications</url>
-                </line>
-                <line> thanks to <url href="https://en.wikipedia.org/wiki/John_Adrian_Bondy">Bondy</url> and <url href="https://en.wikipedia.org/wiki/U._S._R._Murty">Murty</url></line>
-            </li>
-            <li>
-                <line>
-                <url href="https://measure.axler.net/">Measure, Integration &amp; Real Analysis</url>
-                </line>
-                <line>
-                thanks to <url href="https://en.wikipedia.org/wiki/Sheldon_Axler">Axler</url>
-                </line>
-            </li>
-        </ul>
-
+        <sidebyside widths="47% 53%" margins="auto" valign="middle">
+        <p><url href="https://aimath.org/textbooks/">AIM Open Textbook Initiative</url></p>
+        <p>thanks to <url href="https://utmost.aimath.org/">the UTMOST project</url></p>
+        </sidebyside>
+        <sidebyside widths="47% 53%" margins="auto" valign="middle">
+        <p><url href="https://secure.math.ubc.ca/~CLP/">CLP Calculus</url></p>
+        <p>
+            thanks to
+            <url href="https://en.wikipedia.org/wiki/Joel_Feldman">Feldman</url>,
+            <url href="https://secure.math.ubc.ca/~andrewr/front_page.html">Rechnitzer</url>, and
+            <url href="https://secure.math.ubc.ca/~elyse/index.html">Yeager</url>
+        </p>
+        </sidebyside>
+        <sidebyside widths="47% 53%" margins="auto" valign="middle">
+        <p><url href="https://web.archive.org/web/20120207023102fw_/http://www.math.jussieu.fr/~jabondy/books/books.html">Graph Theory with Applications</url></p>
+        <p>
+            thanks to
+            <url href="https://en.wikipedia.org/wiki/John_Adrian_Bondy">Bondy</url> and
+            <url href="https://en.wikipedia.org/wiki/U._S._R._Murty">Murty</url>
+        </p>
+        </sidebyside>
+        <sidebyside widths="47% 53%" margins="auto" valign="middle">
+        <p><url href="https://measure.axler.net/">Measure, Integration &amp; Real Analysis</url></p>
+        <p>
+            thanks to
+            <url href="https://en.wikipedia.org/wiki/Sheldon_Axler">Axler</url>
+        </p>
+        </sidebyside>
     </section>
 
     <section xml:id="teaching">
