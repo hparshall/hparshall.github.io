@@ -71,6 +71,23 @@
         </table>
     </section>
 
+    <section xml:id="library">
+        <title>library</title>
+        <ul>
+            <li>
+                <url href="https://aimath.org/textbooks/">AIM Open Textbook Initiative</url>
+            </li>
+            <li>
+                <url href="https://secure.math.ubc.ca/~CLP/">CLP Calculus Textbooks</url>
+            </li>
+            <li>
+                <url href="https://hansparshall.com/pdf/gtwa.pdf">Graph Theory with Applications</url>,
+                from <url href="https://web.archive.org/web/20120207023102fw_/http://www.math.jussieu.fr/~jabondy/books/books.html">the author</url>
+            </li>
+        </ul>
+
+    </section>
+
     <section xml:id="teaching">
     <title>teaching</title>
         <table>
