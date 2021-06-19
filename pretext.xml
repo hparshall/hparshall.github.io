@@ -58,8 +58,9 @@
     </section>
 
     <section xml:id="teaching">
-    <title>teaching at Western</title>
+    <title>teaching</title>
         <table>
+            <title>at Western Washington University</title>
             <tabular>
                 <row>
                 <cell>
@@ -123,6 +124,13 @@
         <ul>
             <li> <url href="https://arxiv.org/search/?searchtype=author&amp;query=Parshall%2C+H">arXiv</url> </li>
             <li> <url href="https://scholar.google.com/citations?user=eQ_7e5wAAAAJ&amp;hl=en">Google Scholar</url> </li>
+        </ul>
+    </section>
+
+    <section xml:id="software">
+        <title>software</title>
+        <ul>
+            <li> <url href="https://github.com/hparshall/hparshall.github.io">this site</url> </li>
         </ul>
     </section>
 </article>
