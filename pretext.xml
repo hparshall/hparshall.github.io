@@ -110,7 +110,7 @@
             <p>F21</p> <p>Math 224</p> <p>Multivariable Calculus I</p> <p>info</p>
         </sidebyside>
         <sidebyside widths="10% 20% 45% 20%" margins="auto" valign="middle">
-            <p>F21</p> <p>Math 564</p> <p>Graph Theory</p> <p>info</p>
+            <p>F21</p> <p>Math 564</p> <p><url href="https://en.wikipedia.org/wiki/Graph_theory">Graph Theory</url></p> <p>info</p>
         </sidebyside>
         <sidebyside widths="10% 20% 45% 20%" margins="auto" valign="middle">
             <p>S21</p> <p>Math 224</p> <p>Multivariable Calculus I</p> <p><url href="https://hansparshall.com/pdf/224-evals-s21.pdf">evals</url></p>
