@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pretext>
 <article xml:id="home">
+<title>
+                Hans Parshall
+</title>
     <frontmatter xml:id="frontmatter">
         <titlepage>
 
             <author>
-            <personname>Hans Parshall</personname>
-
-            <department>Department of Mathematics</department>
-
             <institution>
-                <line>Western Washington University</line>
-                <line>Bellingham, Washington, USA</line>
+                <line>Department of Mathematics </line>
+                <line>Western Washington University </line>
+                <line>Bellingham, Washington, USA </line>
+                <line><url href="mailto:hans.parshall@wwu.edu">hans.parshall@wwu.edu</url></line>
             </institution>
-            <email>hans.parshall@wwu.edu</email>
             </author>
 
         </titlepage>
     </frontmatter>
 
 <section xml:id="background">
-    <title>background</title>
+    <title>Background</title>
     <sidebyside widths="15% 40% 40%" margins="auto" valign="middle">
     <p>since 2020</p>
     <p>Assistant Professor</p>
@@ -44,7 +44,7 @@
 </section>
 
     <section xml:id="reading">
-        <title>reading</title>
+        <title>Learning</title>
 
         <sidebyside widths="47% 53%" margins="auto" valign="middle">
         <p><url href="https://aimath.org/textbooks/">AIM Open Textbook Initiative</url></p>
@@ -109,7 +109,7 @@
     </section>
 
     <section xml:id="teaching">
-    <title>teaching</title>
+    <title>Teaching</title>
         <table>
             <title>at Western Washington University</title>
             <tabular>
@@ -180,7 +180,7 @@
     </section>
 
     <section xml:id="research">
-        <title>research</title>
+        <title>Research</title>
         <ul>
             <li> <url href="https://arxiv.org/search/?searchtype=author&amp;query=Parshall%2C+H">arXiv</url> </li>
             <li> <url href="https://scholar.google.com/citations?user=eQ_7e5wAAAAJ&amp;hl=en">Google Scholar</url> </li>
@@ -188,7 +188,7 @@
     </section>
 
     <section xml:id="software">
-        <title>software</title>
+        <title>Software</title>
         <ul>
             <li> <url href="https://github.com/hparshall/hparshall.github.io">this site</url> </li>
         </ul>
