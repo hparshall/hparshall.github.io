@@ -111,6 +111,16 @@
         </sidebyside>
 
         <sidebyside widths="47% 53%" margins="auto" valign="middle">
+        <p><url href="https://www.ams.org/notices/199801/vertesi.pdf">The Mathematics of Paul Erdős</url></p>
+        <p>
+            thanks to
+            <url href="https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Babai">Babai</url>,
+            <url href="https://en.wikipedia.org/wiki/Carl_Pomerance">Pomerance</url>, and
+            <url href="https://users.renyi.hu/~veter/">Vértesi</url>
+        </p>
+        </sidebyside>
+
+        <sidebyside widths="47% 53%" margins="auto" valign="middle">
         <p><url href="https://hansparshall.com/pdf/wigner.pdf">The Unreasonable Effectiveness of Mathematics</url></p>
         <p>
             thanks to
