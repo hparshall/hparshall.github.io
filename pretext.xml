@@ -42,6 +42,16 @@
         <title>Learning</title>
 
         <sidebyside widths="47% 53%" margins="auto" valign="middle">
+        <p><url href="https://archive.org/details/hardy_annotated">A Mathematician's Apology</url></p>
+        <p>thanks to <url href="http://www-groups.mcs.st-andrews.ac.uk/~alanc/">Cain</url> and <url href="https://mathshistory.st-andrews.ac.uk/Biographies/Hardy/">Hardy</url></p>
+        </sidebyside>
+
+        <sidebyside widths="47% 53%" margins="auto" valign="middle">
+        <p><url href="https://www.maa.org/external_archive/devlin/devlin_03_08.html">A Mathematician's Lament</url></p>
+        <p>thanks to <url href="https://en.wikipedia.org/wiki/Keith_Devlin">Devlin</url> and <url href="https://en.wikipedia.org/wiki/A_Mathematician%27s_Lament">Lockhart</url></p>
+        </sidebyside>
+
+        <sidebyside widths="47% 53%" margins="auto" valign="middle">
         <p><url href="https://aimath.org/textbooks/">AIM Open Textbook Initiative</url></p>
         <p>thanks to <url href="https://utmost.aimath.org/">the UTMOST project</url></p>
         </sidebyside>
