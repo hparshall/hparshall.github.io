@@ -199,10 +199,10 @@
             <p>S21</p> <p>Math 224</p> <p>Multivariable Calculus I</p> <p><url href="https://hansparshall.com/pdf/224-evals-s21.pdf">evals</url></p>
         </sidebyside>
         <sidebyside widths="10% 20% 45% 20%" margins="auto" valign="middle">
-            <p>S21</p> <p>Math 304</p> <p>Linear Algebra II</p> <p><url href="https://hansparshall.com/pdf/304-evals-s21.pdf">evals</url></p>
+            <p>S21</p> <p>Math 304</p> <p><url href="https://en.wikipedia.org/wiki/Linear_algebra">Linear Algebra</url> II</p> <p><url href="https://hansparshall.com/pdf/304-evals-s21.pdf">evals</url></p>
         </sidebyside>
         <sidebyside widths="10% 20% 45% 20%" margins="auto" valign="middle">
-            <p>W21</p> <p>Math 204</p> <p>Linear Algebra I</p> <p><url href="https://hansparshall.com/pdf/204-evals-w21.pdf">evals</url></p>
+            <p>W21</p> <p>Math 204</p> <p><url href="https://en.wikipedia.org/wiki/Linear_algebra">Linear Algebra</url> I</p> <p><url href="https://hansparshall.com/pdf/204-evals-w21.pdf">evals</url></p>
         </sidebyside>
     </section>
 
