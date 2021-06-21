@@ -190,13 +190,13 @@
         <title>Teaching</title>
         <p>at <url href="https://mathematics.wwu.edu/">Western Washington University</url></p>
         <sidebyside widths="10% 20% 45% 20%" margins="auto" valign="middle">
-            <p>F21</p> <p>Math 224</p> <p>Multivariable Calculus I</p> <p>info</p>
+            <p>F21</p> <p>Math 224</p> <p>Multivariable <url href="https://en.wikipedia.org/wiki/Calculus">Calculus</url> I</p> <p>info</p>
         </sidebyside>
         <sidebyside widths="10% 20% 45% 20%" margins="auto" valign="middle">
             <p>F21</p> <p>Math 564</p> <p><url href="https://en.wikipedia.org/wiki/Graph_theory">Graph Theory</url></p> <p>info</p>
         </sidebyside>
         <sidebyside widths="10% 20% 45% 20%" margins="auto" valign="middle">
-            <p>S21</p> <p>Math 224</p> <p>Multivariable Calculus I</p> <p><url href="https://hansparshall.com/pdf/224-evals-s21.pdf">evals</url></p>
+            <p>S21</p> <p>Math 224</p> <p>Multivariable <url href="https://en.wikipedia.org/wiki/Calculus">Calculus</url> I</p> <p><url href="https://hansparshall.com/pdf/224-evals-s21.pdf">evals</url></p>
         </sidebyside>
         <sidebyside widths="10% 20% 45% 20%" margins="auto" valign="middle">
             <p>S21</p> <p>Math 304</p> <p><url href="https://en.wikipedia.org/wiki/Linear_algebra">Linear Algebra</url> II</p> <p><url href="https://hansparshall.com/pdf/304-evals-s21.pdf">evals</url></p>
